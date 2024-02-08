@@ -1,0 +1,2 @@
+C:\Users\rbrto\source\repos\daphberto\daphberto\obj\Debug\daphberto.esproj.SuggestedBindingRedirects.cache
+C:\Users\rbrto\source\repos\daphberto\daphberto\obj\Debug\daphberto.esproj.CoreCompileInputs.cache
