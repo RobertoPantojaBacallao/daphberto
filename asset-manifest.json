@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/daphberto/static/css/main.0a07f1e7.css",
-    "main.js": "/daphberto/static/js/main.e19bc6a4.js",
+    "main.js": "/daphberto/static/js/main.5692ef5a.js",
     "static/css/166.98d85fe4.chunk.css": "/daphberto/static/css/166.98d85fe4.chunk.css",
     "static/js/166.05e4ea36.chunk.js": "/daphberto/static/js/166.05e4ea36.chunk.js",
-    "static/css/128.e030b9bb.chunk.css": "/daphberto/static/css/128.e030b9bb.chunk.css",
+    "static/css/128.2dec1755.chunk.css": "/daphberto/static/css/128.2dec1755.chunk.css",
     "static/js/128.e783f1fd.chunk.js": "/daphberto/static/js/128.e783f1fd.chunk.js",
     "static/js/787.121d9c69.chunk.js": "/daphberto/static/js/787.121d9c69.chunk.js",
     "static/media/IMG_8844.jpg": "/daphberto/static/media/IMG_8844.9f1313f6b688f2628001.jpg",
@@ -39,15 +39,15 @@
     "static/media/lp_image.jpg": "/daphberto/static/media/lp_image.5caac15dfbf1399e4c01.jpg",
     "index.html": "/daphberto/index.html",
     "main.0a07f1e7.css.map": "/daphberto/static/css/main.0a07f1e7.css.map",
-    "main.e19bc6a4.js.map": "/daphberto/static/js/main.e19bc6a4.js.map",
+    "main.5692ef5a.js.map": "/daphberto/static/js/main.5692ef5a.js.map",
     "166.98d85fe4.chunk.css.map": "/daphberto/static/css/166.98d85fe4.chunk.css.map",
     "166.05e4ea36.chunk.js.map": "/daphberto/static/js/166.05e4ea36.chunk.js.map",
-    "128.e030b9bb.chunk.css.map": "/daphberto/static/css/128.e030b9bb.chunk.css.map",
+    "128.2dec1755.chunk.css.map": "/daphberto/static/css/128.2dec1755.chunk.css.map",
     "128.e783f1fd.chunk.js.map": "/daphberto/static/js/128.e783f1fd.chunk.js.map",
     "787.121d9c69.chunk.js.map": "/daphberto/static/js/787.121d9c69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a07f1e7.css",
-    "static/js/main.e19bc6a4.js"
+    "static/js/main.5692ef5a.js"
   ]
 }
