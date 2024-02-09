@@ -80,15 +80,18 @@ function App() {
 
     return (
         <div id='wrapper' className='App'>
-            <section>
-                <Container>
+            <section style={{"marginLeft":"5%"}}>
+                {/*<Container >*/}
                     <h1 style={{'top':'10%'}}>Hi Daphne!</h1>
-                    <h2>test</h2>
+                <h2 style={{ "textAlign": "left" }} >I've always loved how you've used your talent to make me amazing presents.<br /> I wanted to do the same for you, so I used what little programming I know to create this.<br /><br />
+                    I put together a list of some of my favorite pictures/memories and wrote a little something about each one.<br />It was hard for me to put my feelings down into words, some sentences are clumsy and others are cheesey, but I mean every word. <br /><br />
+                </h2>
                     { !isMobile && <ChevronDownOutline className="scrollDown" size={128} onClick={downOne} /> }
-                </Container>
+                {/*</Container>*/}
             </section>
             {page}
-            <section>
+            <section style={{ "marginLeft": "5%" }}>
+                <h2 style={{ "textAlign": "left" }}>I hope you enjoyed that gorda.<br /><br />I plan on updating this every now and then. Hopefully within a couple of years we have a big repository of memories we can look back on together.<br /><br /> I love you</h2>
                 {!isMobile && <ChevronUpOutline className="scrollDown" size={128} onClick={topFunction} />}
             </section>
             <motion.div className="progress" style={{ scaleX }} />
