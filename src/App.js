@@ -44,7 +44,7 @@ function App() {
 
     const [width, setWidth] = useState(window.innerWidth);
 
-    const isMobile = width <= 1170;
+    const isMobile = width <= 500;//1170;
 
     if (isMobile) {
         import('./css/mobile.css');
