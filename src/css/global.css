@@ -281,8 +281,8 @@ img {
     position:relative;
     transition: .5s;
     border-radius: 100%;
-    bottom: -80%;
-    left: 44.75%;
+    bottom: -75vh;
+    left: 40.5vw;
 }
 
     .scrollDown:hover {
